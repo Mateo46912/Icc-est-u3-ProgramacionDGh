@@ -5,7 +5,7 @@
 - *Título:* Práctica de Catch
 - *Asignatura:* Estructura de Datos
 - *Carrera:* Computación
-- *Estudiante:* Miichael Yumbla
+- *Estudiante:* Mateo Cordero
 - *Fecha:* 15/07/2025
 - *Profesor:* Ing. Pablo Torres
 
