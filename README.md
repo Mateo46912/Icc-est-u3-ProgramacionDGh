@@ -1,4 +1,4 @@
-# Práctica de Algoritmos de Ordenamiento
+# Práctica de Catching
 
 ## 📌 Información General
 
